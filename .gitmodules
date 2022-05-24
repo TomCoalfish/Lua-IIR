@@ -1,0 +1,33 @@
+[submodule "iir_filters"]
+	path = iir_filters
+	url = https://github.com/jacknlliu/iir_filters
+[submodule "resampler_iir"]
+	path = resampler_iir
+	url = https://github.com/kode54/resampler_iir
+[submodule "smart-filter"]
+	path = smart-filter
+	url = https://github.com/devinaconley/smart-filter
+[submodule "Foobar2000Filters"]
+	path = Foobar2000Filters
+	url = https://github.com/ViktorStolbovoy/Foobar2000Filters
+[submodule "QFilterDesigner"]
+	path = QFilterDesigner
+	url = https://github.com/weigq/QFilterDesigner
+[submodule "ButterworthIIR"]
+	path = ButterworthIIR
+	url = https://github.com/DeadlyRedCube/ButterworthIIR
+[submodule "jackiir"]
+	path = jackiir
+	url = https://github.com/adiblol/jackiir
+[submodule "filter_kit"]
+	path = filter_kit
+	url = https://github.com/peersky/filter_kit
+[submodule "IIRNotch"]
+	path = IIRNotch
+	url = https://github.com/DanielEColi/IIRNotch
+[submodule "iir_laplace"]
+	path = iir_laplace
+	url = https://github.com/dmidem/iir_laplace
+[submodule "rbfilter"]
+	path = rbfilter
+	url = https://github.com/r-burg/rbfilter
